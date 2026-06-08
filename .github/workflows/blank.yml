@@ -1,4 +1,4 @@
-name: Exploring GitHub Enterprise Action Features and Policies
+name: Exploring GitHub Enterprise Action Features & Policies
 
 on:
   workflow_dispatch:
