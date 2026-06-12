@@ -1,11 +1,2 @@
 # Default owner for everything
 @devops-team
-
-# Infrastructure
-/infra/ @devops-team
-
-# Documentation
-/docs/ @technical-writers
-
-# Security code
-/security/ @security-team
