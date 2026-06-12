@@ -1,5 +1,5 @@
 # Default owner for everything
-* @platform-team
+@devops-team
 
 # Infrastructure
 /infra/ @devops-team
